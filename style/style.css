@@ -47,18 +47,18 @@ header > h1{
     font-family: var(--fonte-destaque);
     padding-top: 40px;
     margin-bottom: 20px;
-    font-size: 3.0em;
+    font-size: 2.5em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.479);
 }
 
 header > p{
     color: white;
     font-family: var(--fonte-padrao);
-    font-size: 1.2em;
+    font-size: 1em;
     max-width: 500px;
     padding-right: 10px;
     padding-left: 10px;
-    padding-bottom: 40px;
+    padding-bottom: 35px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
 }
